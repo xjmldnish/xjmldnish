@@ -18,3 +18,10 @@ I'm an Intelligent Systems Engineering fresh graduate from Malaysia, passionate 
 
 ---
 ⭐ I'm currently open to junior developer, entry-level software engineer / software developer opportunities in Malaysia!
+
+## 📁 Projects
+
+### 💸 Expense Tracker
+A React app to track daily expenses — add, view, and delete expenses with a live total.
+- 🔗 [Live Demo](https://expense-tracker-ten-bay-47.vercel.app/)
+- 💻 [Source Code](https://github.com/xjmldnish/expense-tracker)
