@@ -30,3 +30,8 @@ A React app to track daily expenses — add, view, and delete expenses with a li
 Search any city and get real-time weather data using OpenWeatherMap API.
 - 🔗 [Live Demo](https://weather-app-delta-ochre-480gm64psu.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/weather-app)
+
+### 🗡️ MLBB Session Tracker
+Track your Mobile Legends sessions, KDA, win rate and rank progress.
+- 🔗 [Live Demo](https://mlbb-tracker.vercel.app/)
+- 💻 [Source Code](https://github.com/xjmldnish/mlbb-tracker)
