@@ -25,3 +25,8 @@ I'm an Intelligent Systems Engineering fresh graduate from Malaysia, passionate 
 A React app to track daily expenses — add, view, and delete expenses with a live total.
 - 🔗 [Live Demo](https://expense-tracker-ten-bay-47.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/expense-tracker)
+
+### 🌤️ Weather App
+Search any city and get real-time weather data using OpenWeatherMap API.
+- 🔗 [Live Demo](https://weather-app-delta-ochre-480gm64psu.vercel.app/)
+- 💻 [Source Code](https://github.com/xjmldnish/weather-app)
