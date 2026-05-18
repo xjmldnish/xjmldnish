@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ajmal 👋
 
-<!--
-**xjmldnish/xjmldnish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Intelligent Systems Engineering fresh graduate from Malaysia, passionate about building useful things with code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building my first full-stack portfolio project
+- Learning by doing and improving every day
+
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/ajmaldanish
+- Email: ajmaldanish1908@gmail.com
+
+---
+⭐ I'm currently open to junior developer, entry-level software engineer / software developer opportunities in Malaysia!
