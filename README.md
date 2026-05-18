@@ -35,3 +35,8 @@ Search any city and get real-time weather data using OpenWeatherMap API.
 Track your Mobile Legends sessions, KDA, win rate and rank progress.
 - 🔗 [Live Demo](https://mlbb-tracker.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/mlbb-tracker)
+
+### 🗡️ Gym Workout Tracker
+Track gym workouts
+- 🔗 [Live Demo](https://gym-tracker-ten-indol.vercel.app/)
+- 💻 [Source Code](https://github.com/xjmldnish/gym-tracker)
