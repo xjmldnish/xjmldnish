@@ -37,6 +37,11 @@ Track your Mobile Legends sessions, KDA, win rate and rank progress.
 - 💻 [Source Code](https://github.com/xjmldnish/mlbb-tracker)
 
 ### 🗡️ Gym Workout Tracker
-Track gym workouts
+A personal gym session tracker built with React. Log workouts, track Personal Records (PRs) and visualise your weight progression over time with charts.
 - 🔗 [Live Demo](https://gym-tracker-ten-indol.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/gym-tracker)
+
+# 💰 Personal Finance Dashboard
+Track your monthly expenses by category, set budget limits, monitor savings goals, and visualise your spending breakdown with a pie chart.
+- 🔗 [Live Demo](https://finance-dashboard-v4sf.vercel.app/)
+- 💻 [Source Code](https://github.com/xjmldnish/finance-dashboard)
