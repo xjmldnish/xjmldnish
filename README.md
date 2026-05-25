@@ -22,7 +22,7 @@ https://portfolio-nine-theta-drkpts7j7q.vercel.app/
 ---
 ⭐ I'm currently open to junior developer, entry-level software engineer / software developer opportunities in Malaysia!
 
-## 📁 Projects
+## 📁 Projects (W.I.P, not perfect yet but still accessible.)
 
 ### 💸 Expense Tracker
 A React app to track daily expenses — add, view, and delete expenses with a live total.
