@@ -20,7 +20,7 @@ I'm an Intelligent Systems Engineering fresh graduate from Malaysia, passionate 
 https://portfolio-nine-theta-drkpts7j7q.vercel.app/
 
 ---
-⭐ I'm currently open to junior developer, entry-level software engineer / software developer opportunities in Malaysia!
+⭐ I'm currently open to junior AI Engineer, entry-level AI engineer opportunities in Malaysia!
 
 ## 📁 Projects (W.I.P, not perfect yet but still accessible.)
 
