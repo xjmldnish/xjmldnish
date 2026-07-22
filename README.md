@@ -1,16 +1,43 @@
 # Hi, I'm Ajmal 👋
 
-I'm an Intelligent Systems Engineering fresh graduate from Malaysia, passionate about building useful things with code.
+AI Engineer graduate passionate about building practical AI applications using Machine Learning, Computer Vision and Large Language Models.
 
-## 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
+Currently seeking AI Engineer / Machine Learning Engineer or any AI related role opportunities in Malaysia.
 
-## 🚀 What I'm Working On
-- Building my first full-stack portfolio project
-- Learning by doing and improving every day
+---
+
+## 🧠 AI Expertise
+
+- Deep Learning (PyTorch)
+- Computer Vision (OpenCV)
+- Large Language Models (Google Gemini API)
+- LangChain & LangGraph
+- Prompt Engineering
+- Python
+- NumPy
+- Computer Vision
+
+---
+
+## 💻 Software Engineering
+
+- Next.js
+- React
+- TypeScript
+- PostgreSQL
+- MongoDB
+- REST APIs
+- Git
+
+## 📚 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangGraph
+- Model Context Protocol (MCP)
+- Hugging Face
+- ONNX
+- CUDA
 
 ## 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/ajmaldanish
@@ -20,31 +47,42 @@ I'm an Intelligent Systems Engineering fresh graduate from Malaysia, passionate 
 https://portfolio-nine-theta-drkpts7j7q.vercel.app/
 
 ---
-⭐ I'm currently open to junior AI Engineer, entry-level AI engineer opportunities in Malaysia!
 
 ## 📁 Projects (W.I.P, not perfect yet but still accessible.)
 
-### 💸 Expense Tracker
+### AI Projects ⭐
+
+#### 🍛 Makan — AI Malaysian Food Calorie Tracker ⭐
+AI-powered nutrition application using Google's Gemini Multimodal API that estimates calories and macronutrients from food images while optimising inference cost through image preprocessing and structured prompt engineering.
+- 🔗 [Live Demo](https://expense-tracker-ten-bay-47.vercel.app/)
+- 💻 [Source Code](https://github.com/xjmldnish/expense-tracker)
+
+#### 🎨 Grayscale Image Colorization
+
+
+### Full Stack Projects
+
+#### 💸 Expense Tracker
 A React app to track daily expenses — add, view, and delete expenses with a live total.
 - 🔗 [Live Demo](https://expense-tracker-ten-bay-47.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/expense-tracker)
 
-### 🌤️ Weather App
+#### 🌤️ Weather App
 Search any city and get real-time weather data using OpenWeatherMap API.
 - 🔗 [Live Demo](https://weather-app-delta-ochre-480gm64psu.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/weather-app)
 
-### 🗡️ MLBB Session Tracker
+#### 🗡️ MLBB Session Tracker
 Track your Mobile Legends sessions, KDA, win rate and rank progress.
 - 🔗 [Live Demo](https://mlbb-tracker.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/mlbb-tracker)
 
-### 🗡️ Gym Workout Tracker
+#### 🗡️ Gym Workout Tracker
 A personal gym session tracker built with React. Log workouts, track Personal Records (PRs) and visualise your weight progression over time with charts.
 - 🔗 [Live Demo](https://gym-tracker-ten-indol.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/gym-tracker)
 
-### 💰 Personal Finance Dashboard
+#### 💰 Personal Finance Dashboard
 Track your monthly expenses by category, set budget limits, monitor savings goals, and visualise your spending breakdown with a pie chart.
 - 🔗 [Live Demo](https://finance-dashboard-v4sf.vercel.app/)
 - 💻 [Source Code](https://github.com/xjmldnish/finance-dashboard)
