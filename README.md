@@ -54,7 +54,7 @@ https://portfolio-nine-theta-drkpts7j7q.vercel.app/
 
 #### 🍛 Makan — AI Malaysian Food Calorie Tracker ⭐
 AI-powered nutrition application using Google's Gemini Multimodal API that estimates calories and macronutrients from food images while optimising inference cost through image preprocessing and structured prompt engineering.
-- 🔗 [Live Demo](https://expense-tracker-ten-bay-47.vercel.app/)
+- 🔗 [Live Demo]([https://expense-tracker-ten-bay-47.vercel.app/](https://makan-eosin-beta.vercel.app/))
 - 💻 [Source Code](https://github.com/xjmldnish/expense-tracker)
 
 #### 🎨 Grayscale Image Colorization
