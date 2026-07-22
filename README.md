@@ -44,7 +44,7 @@ Currently seeking AI Engineer / Machine Learning Engineer or any AI related role
 - Email: ajmaldanish1908@gmail.com
 
 ## Here's my Digital Portfolio
-https://portfolio-ndbz.vercel.app/#work
+https://portfolio-ndbz.vercel.app/#
 
 ---
 
